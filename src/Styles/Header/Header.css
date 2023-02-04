@@ -1,0 +1,18 @@
+.hd {
+  display: grid;
+  grid-template-columns: 10% 13% 70%;
+  align-items: center;
+  background-color: #672280;
+}
+
+.header-img {
+  width: 100%;
+}
+
+.header-title {
+  color: #ffffff;
+}
+
+.header-info {
+  justify-self: flex-end;
+}/*# sourceMappingURL=Header.css.map */
